@@ -23,3 +23,7 @@ This was made for me, not really to share. If you use this to learn something th
 </br>
 
 https://www.udemy.com/share/101W9O3@yEpc5Dn2rgW4K0VMq_y7AcClWVzgyNWIpEnomLAOS-MeBRRPQJFROn0Ewf56rn7tFA==/
+
+## How could I use it?
+
+Each notebook was uploaded with it's own commit, so if you go back through past commits you should be able to see the basic order of things. Not Every notebook in the course was uploaded here, and I believe some of my project data isn't in here. As I mentioned this is mainly for me to come back too. These are python notebooks so you could run them locally, or you could use them in google collab (each notebook has a collab link) and run it in your browser which is what I did for the course. As a tip with the later material, you can enable a gpu in collab for free by changing the runtime session. Really helps with keras and more complicated models. 
